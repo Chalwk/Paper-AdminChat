@@ -5,7 +5,7 @@ channels, configurable permissions, and spam prevention.
 
 ![Paper](https://img.shields.io/badge/Paper-1.21.4-green?logo=paper&logoColor=white)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/Chalwk/AdminChat?sort=semver)](https://github.com/Chalwk/AdminChat/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Chalwk/Paper-AdminChat?sort=semver)](https://github.com/Chalwk/Paper-AdminChat/releases/latest)
 
 ## Features
 
